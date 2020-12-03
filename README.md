@@ -37,5 +37,9 @@
 
 ![newbranch](pics/newbranch.PNG)
 
+История операций в отформатированном виде:
+
+![prettylog](pics/prettylog.PNG)
+
 
 
